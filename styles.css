@@ -3,10 +3,18 @@ body {
     background-color: ivory;
 }
 
+header {
+    text-align: center;
+    color: brown;
+    font-size: 40;
+    text-shadow: 2px 2px 4px #000000;
+}
+
 section {
     border: 3px dotted black;
     margin: 5px;
     padding: 10px;
+    float: auto;
 }
 
 .furniture {
