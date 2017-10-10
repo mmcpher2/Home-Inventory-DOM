@@ -1,0 +1,30 @@
+
+body {
+    background-color: ivory;
+}
+
+section {
+    border: 3px dotted black;
+    margin: 5px;
+    padding: 10px;
+}
+
+.furniture {
+    color: tomato;
+}
+
+.electronics {
+    color: navy;
+}
+
+.art {
+    color: red;
+}
+
+.appliances {
+    color: greenyellow;
+}
+
+.supplies {
+    color: turquoise;
+}
